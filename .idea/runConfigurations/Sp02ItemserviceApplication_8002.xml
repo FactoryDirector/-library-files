@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Sp02ItemserviceApplication-8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+  <configuration default="false" name="Sp02ItemserviceApplication-8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
     <module name="sp02-itemservice" />
     <extension name="coverage">
       <pattern>
@@ -8,7 +8,7 @@
       </pattern>
     </extension>
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.tedu.sp02itemservice.Sp02ItemserviceApplication" />
-    <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=item1" />
+    <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=item2" />
     <option name="ALTERNATIVE_JRE_PATH" />
     <method />
   </configuration>
